@@ -1,0 +1,46 @@
+body {
+  background-color: yellow;
+}
+
+div {
+  border: 1px solid;
+  text-align: center;
+  padding: 5px;
+  margin: 10px, 10px;
+  box-sizing: border-box;
+}
+
+.top-nav {
+  border-color: grey;
+  margin-left: 100px;
+}
+
+.container {
+  border: none;
+  padding: 1px, 0px;
+}
+
+.left-nav {
+  border-color: grey;
+  margin-top: -30px;
+  margin-left: 2px;
+  margin-right: 2px;
+  float: left;
+  width: 188px;
+  height: 500px;
+  background: black;
+  color: white;
+}
+
+.content {
+  border-color: grey;
+  margin-top: 0;
+  margin-left: 188px;
+  height: 235px;
+  width: 100%;
+}
+
+p {
+  float: left;
+  margin-top: 5px;
+}
